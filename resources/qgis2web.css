@@ -30,7 +30,7 @@ th, td {
     left: -50px;   
     height: auto;
     width: auto;
-    min-width: 200px;
+    min-width: 300px;
     max-height:400px;
     overflow: auto;      
 }
